@@ -2,8 +2,8 @@
 error_reporting(E_ALL | E_STRICT);
 ini_set('display_errors', true);
 
-define('USERNAME', 'dten1986');
-define('PASSWORD', '123456');
+define('USERNAME', 'some_cool_username');
+define('PASSWORD', '123456_or_even_stronger');
 define('LOGIN_URL', 'https://account.dyn.com/');
 define('COOKIE_FILE', './cookies.txt');
  
